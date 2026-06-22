@@ -27,7 +27,7 @@ This project analyzes sales performance across different departments, regions, a
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Superstore_Sales_Dashboard.jpg)
 
 ## Key Insights
 
